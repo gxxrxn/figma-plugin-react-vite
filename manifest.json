@@ -1,0 +1,9 @@
+{
+  "name": "Splash Screen Generator",
+  "id": "splash-screen-generator",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "dist/code.js",
+  "ui": "dist/index.html"
+}
