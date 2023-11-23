@@ -1,6 +1,6 @@
 {
-  "name": "Splash Screen Generator",
-  "id": "splash-screen-generator",
+  "name": "Figma Plugin Sample",
+  "id": "figma-plugin-react-vite",
   "api": "1.0.0",
   "editorType": ["figma"],
   "permissions": [],

@@ -17,5 +17,6 @@ export default defineConfig({
         entryFileNames: "[name].js",
       },
     },
+    emptyOutDir: false,
   },
 });
